@@ -11,8 +11,6 @@
 
 NOTE: This code has been successfully tested on NVIDIA GTX295, C1060, C2050, C2070 and GT555M. */
 
-               /* TO COMPILE: IT'S CLEAR THAT COMPILATION DEPENDS ON YOUR PLATFORM */
-
 /* For Ubuntu with Cuda Libraries you have to do once:
 
     user@user:yourpath$ nvcc -c -arch=sm_20 GP2SSCF_GPU_v0.2.cu
